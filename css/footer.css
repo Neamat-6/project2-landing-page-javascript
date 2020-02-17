@@ -1,0 +1,34 @@
+/* start footer */
+footer {
+    display:flex;
+    background-color:#101024;
+    color:#fff;
+    padding:50px;
+    text-transform: uppercase;
+}
+.rights {
+    width: 65%;
+}
+.rights .brand {
+    font-size:18px;
+}
+.rights p {
+    color:#a49c9c;  
+}
+.rights p span {
+    color:#74a9d7;
+}
+.rights i {
+    font-size: 20px;
+    margin-right: 10px;
+    color:#a49c9c; 
+}
+.box ul {
+    list-style-type: none;
+    padding: 0;
+}
+.box ul li {
+    padding: 5px 0;
+    text-transform: capitalize;
+    color:#a49c9c;
+}
